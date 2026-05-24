@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "ShulkarMc.aternos.me",
+    "port": 52377,
     "version": "1.21.1"
   },
   "position": {
